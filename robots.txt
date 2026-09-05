@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mandaltapas0422-glitch.github.io/snippets-bb6amq/sitemap.xml
